@@ -1,0 +1,28 @@
+AstraDB Collection Schema
+=========================
+
+Database: genai_project_db
+Collection: faq_vector_collection
+
+Each document in the collection represents an FAQ item with the following structure:
+
+{
+  "question": "How do I reset my password?",
+  "answer": "Click on 'Forgot Password' at login.",
+  "$vector": [ OpenAI-generated vector embedding of the combined Q+A text ]
+}
+
+Explanation:
+------------
+- "question" (string): The user's question from the dataset.
+- "answer" (string): The support response or solution.
+- "$vector" (array of floats): The vectorized representation created by the embedding model (text-embedding-3-small).
+
+The vector is automatically stored when the OpenAI Embeddings node runs during data ingestion via Langflow.
+
+Vector search is performed on this embedded content using AstraDB's similarity search.
+
+Indexing:
+---------
+- Vector Index: Enabled on "$vector"
+- No manual schema definition was required due to AstraDB’s schemaless structure.
