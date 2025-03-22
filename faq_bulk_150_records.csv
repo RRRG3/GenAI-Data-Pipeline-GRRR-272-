@@ -1,0 +1,151 @@
+id,text,category
+faq_001,Sample FAQ question 1: How do I handle situation 1?,Billing
+faq_002,Sample FAQ question 2: How do I handle situation 2?,General Inquiry
+faq_003,Sample FAQ question 3: How do I handle situation 3?,Technical Support
+faq_004,Sample FAQ question 4: How do I handle situation 4?,Account Management
+faq_005,Sample FAQ question 5: How do I handle situation 5?,Technical Support
+faq_006,Sample FAQ question 6: How do I handle situation 6?,Shipping
+faq_007,Sample FAQ question 7: How do I handle situation 7?,Billing
+faq_008,Sample FAQ question 8: How do I handle situation 8?,Billing
+faq_009,Sample FAQ question 9: How do I handle situation 9?,Billing
+faq_010,Sample FAQ question 10: How do I handle situation 10?,Technical Support
+faq_011,Sample FAQ question 11: How do I handle situation 11?,Billing
+faq_012,Sample FAQ question 12: How do I handle situation 12?,General Inquiry
+faq_013,Sample FAQ question 13: How do I handle situation 13?,Billing
+faq_014,Sample FAQ question 14: How do I handle situation 14?,Shipping
+faq_015,Sample FAQ question 15: How do I handle situation 15?,Technical Support
+faq_016,Sample FAQ question 16: How do I handle situation 16?,Technical Support
+faq_017,Sample FAQ question 17: How do I handle situation 17?,Shipping
+faq_018,Sample FAQ question 18: How do I handle situation 18?,Technical Support
+faq_019,Sample FAQ question 19: How do I handle situation 19?,Billing
+faq_020,Sample FAQ question 20: How do I handle situation 20?,Account Management
+faq_021,Sample FAQ question 21: How do I handle situation 21?,Shipping
+faq_022,Sample FAQ question 22: How do I handle situation 22?,Technical Support
+faq_023,Sample FAQ question 23: How do I handle situation 23?,General Inquiry
+faq_024,Sample FAQ question 24: How do I handle situation 24?,Shipping
+faq_025,Sample FAQ question 25: How do I handle situation 25?,Billing
+faq_026,Sample FAQ question 26: How do I handle situation 26?,Shipping
+faq_027,Sample FAQ question 27: How do I handle situation 27?,Billing
+faq_028,Sample FAQ question 28: How do I handle situation 28?,Account Management
+faq_029,Sample FAQ question 29: How do I handle situation 29?,Billing
+faq_030,Sample FAQ question 30: How do I handle situation 30?,General Inquiry
+faq_031,Sample FAQ question 31: How do I handle situation 31?,Billing
+faq_032,Sample FAQ question 32: How do I handle situation 32?,Technical Support
+faq_033,Sample FAQ question 33: How do I handle situation 33?,Shipping
+faq_034,Sample FAQ question 34: How do I handle situation 34?,Shipping
+faq_035,Sample FAQ question 35: How do I handle situation 35?,Account Management
+faq_036,Sample FAQ question 36: How do I handle situation 36?,Billing
+faq_037,Sample FAQ question 37: How do I handle situation 37?,Shipping
+faq_038,Sample FAQ question 38: How do I handle situation 38?,Shipping
+faq_039,Sample FAQ question 39: How do I handle situation 39?,General Inquiry
+faq_040,Sample FAQ question 40: How do I handle situation 40?,General Inquiry
+faq_041,Sample FAQ question 41: How do I handle situation 41?,Technical Support
+faq_042,Sample FAQ question 42: How do I handle situation 42?,Account Management
+faq_043,Sample FAQ question 43: How do I handle situation 43?,Shipping
+faq_044,Sample FAQ question 44: How do I handle situation 44?,Account Management
+faq_045,Sample FAQ question 45: How do I handle situation 45?,Account Management
+faq_046,Sample FAQ question 46: How do I handle situation 46?,Account Management
+faq_047,Sample FAQ question 47: How do I handle situation 47?,Account Management
+faq_048,Sample FAQ question 48: How do I handle situation 48?,Technical Support
+faq_049,Sample FAQ question 49: How do I handle situation 49?,Account Management
+faq_050,Sample FAQ question 50: How do I handle situation 50?,Technical Support
+faq_051,Sample FAQ question 51: How do I handle situation 51?,General Inquiry
+faq_052,Sample FAQ question 52: How do I handle situation 52?,Account Management
+faq_053,Sample FAQ question 53: How do I handle situation 53?,Billing
+faq_054,Sample FAQ question 54: How do I handle situation 54?,General Inquiry
+faq_055,Sample FAQ question 55: How do I handle situation 55?,Technical Support
+faq_056,Sample FAQ question 56: How do I handle situation 56?,Billing
+faq_057,Sample FAQ question 57: How do I handle situation 57?,Billing
+faq_058,Sample FAQ question 58: How do I handle situation 58?,Technical Support
+faq_059,Sample FAQ question 59: How do I handle situation 59?,Account Management
+faq_060,Sample FAQ question 60: How do I handle situation 60?,Billing
+faq_061,Sample FAQ question 61: How do I handle situation 61?,Shipping
+faq_062,Sample FAQ question 62: How do I handle situation 62?,Shipping
+faq_063,Sample FAQ question 63: How do I handle situation 63?,Shipping
+faq_064,Sample FAQ question 64: How do I handle situation 64?,Technical Support
+faq_065,Sample FAQ question 65: How do I handle situation 65?,General Inquiry
+faq_066,Sample FAQ question 66: How do I handle situation 66?,Shipping
+faq_067,Sample FAQ question 67: How do I handle situation 67?,Billing
+faq_068,Sample FAQ question 68: How do I handle situation 68?,Technical Support
+faq_069,Sample FAQ question 69: How do I handle situation 69?,Billing
+faq_070,Sample FAQ question 70: How do I handle situation 70?,General Inquiry
+faq_071,Sample FAQ question 71: How do I handle situation 71?,Technical Support
+faq_072,Sample FAQ question 72: How do I handle situation 72?,General Inquiry
+faq_073,Sample FAQ question 73: How do I handle situation 73?,Account Management
+faq_074,Sample FAQ question 74: How do I handle situation 74?,Technical Support
+faq_075,Sample FAQ question 75: How do I handle situation 75?,Technical Support
+faq_076,Sample FAQ question 76: How do I handle situation 76?,Billing
+faq_077,Sample FAQ question 77: How do I handle situation 77?,Technical Support
+faq_078,Sample FAQ question 78: How do I handle situation 78?,General Inquiry
+faq_079,Sample FAQ question 79: How do I handle situation 79?,Account Management
+faq_080,Sample FAQ question 80: How do I handle situation 80?,Shipping
+faq_081,Sample FAQ question 81: How do I handle situation 81?,Technical Support
+faq_082,Sample FAQ question 82: How do I handle situation 82?,Account Management
+faq_083,Sample FAQ question 83: How do I handle situation 83?,Account Management
+faq_084,Sample FAQ question 84: How do I handle situation 84?,Account Management
+faq_085,Sample FAQ question 85: How do I handle situation 85?,Shipping
+faq_086,Sample FAQ question 86: How do I handle situation 86?,General Inquiry
+faq_087,Sample FAQ question 87: How do I handle situation 87?,Shipping
+faq_088,Sample FAQ question 88: How do I handle situation 88?,Account Management
+faq_089,Sample FAQ question 89: How do I handle situation 89?,Shipping
+faq_090,Sample FAQ question 90: How do I handle situation 90?,Shipping
+faq_091,Sample FAQ question 91: How do I handle situation 91?,Account Management
+faq_092,Sample FAQ question 92: How do I handle situation 92?,Billing
+faq_093,Sample FAQ question 93: How do I handle situation 93?,Technical Support
+faq_094,Sample FAQ question 94: How do I handle situation 94?,Shipping
+faq_095,Sample FAQ question 95: How do I handle situation 95?,General Inquiry
+faq_096,Sample FAQ question 96: How do I handle situation 96?,Shipping
+faq_097,Sample FAQ question 97: How do I handle situation 97?,Shipping
+faq_098,Sample FAQ question 98: How do I handle situation 98?,Account Management
+faq_099,Sample FAQ question 99: How do I handle situation 99?,General Inquiry
+faq_100,Sample FAQ question 100: How do I handle situation 100?,Account Management
+faq_101,Sample FAQ question 101: How do I handle situation 101?,Technical Support
+faq_102,Sample FAQ question 102: How do I handle situation 102?,Billing
+faq_103,Sample FAQ question 103: How do I handle situation 103?,Shipping
+faq_104,Sample FAQ question 104: How do I handle situation 104?,Billing
+faq_105,Sample FAQ question 105: How do I handle situation 105?,Billing
+faq_106,Sample FAQ question 106: How do I handle situation 106?,Technical Support
+faq_107,Sample FAQ question 107: How do I handle situation 107?,Account Management
+faq_108,Sample FAQ question 108: How do I handle situation 108?,Technical Support
+faq_109,Sample FAQ question 109: How do I handle situation 109?,Account Management
+faq_110,Sample FAQ question 110: How do I handle situation 110?,Billing
+faq_111,Sample FAQ question 111: How do I handle situation 111?,Shipping
+faq_112,Sample FAQ question 112: How do I handle situation 112?,Technical Support
+faq_113,Sample FAQ question 113: How do I handle situation 113?,Shipping
+faq_114,Sample FAQ question 114: How do I handle situation 114?,Billing
+faq_115,Sample FAQ question 115: How do I handle situation 115?,Technical Support
+faq_116,Sample FAQ question 116: How do I handle situation 116?,Shipping
+faq_117,Sample FAQ question 117: How do I handle situation 117?,Technical Support
+faq_118,Sample FAQ question 118: How do I handle situation 118?,Billing
+faq_119,Sample FAQ question 119: How do I handle situation 119?,Account Management
+faq_120,Sample FAQ question 120: How do I handle situation 120?,Technical Support
+faq_121,Sample FAQ question 121: How do I handle situation 121?,Shipping
+faq_122,Sample FAQ question 122: How do I handle situation 122?,Account Management
+faq_123,Sample FAQ question 123: How do I handle situation 123?,Billing
+faq_124,Sample FAQ question 124: How do I handle situation 124?,General Inquiry
+faq_125,Sample FAQ question 125: How do I handle situation 125?,Technical Support
+faq_126,Sample FAQ question 126: How do I handle situation 126?,Shipping
+faq_127,Sample FAQ question 127: How do I handle situation 127?,Account Management
+faq_128,Sample FAQ question 128: How do I handle situation 128?,Account Management
+faq_129,Sample FAQ question 129: How do I handle situation 129?,Billing
+faq_130,Sample FAQ question 130: How do I handle situation 130?,General Inquiry
+faq_131,Sample FAQ question 131: How do I handle situation 131?,Billing
+faq_132,Sample FAQ question 132: How do I handle situation 132?,Technical Support
+faq_133,Sample FAQ question 133: How do I handle situation 133?,Technical Support
+faq_134,Sample FAQ question 134: How do I handle situation 134?,Billing
+faq_135,Sample FAQ question 135: How do I handle situation 135?,Account Management
+faq_136,Sample FAQ question 136: How do I handle situation 136?,General Inquiry
+faq_137,Sample FAQ question 137: How do I handle situation 137?,Shipping
+faq_138,Sample FAQ question 138: How do I handle situation 138?,Billing
+faq_139,Sample FAQ question 139: How do I handle situation 139?,Billing
+faq_140,Sample FAQ question 140: How do I handle situation 140?,Technical Support
+faq_141,Sample FAQ question 141: How do I handle situation 141?,Account Management
+faq_142,Sample FAQ question 142: How do I handle situation 142?,Shipping
+faq_143,Sample FAQ question 143: How do I handle situation 143?,Technical Support
+faq_144,Sample FAQ question 144: How do I handle situation 144?,Account Management
+faq_145,Sample FAQ question 145: How do I handle situation 145?,Technical Support
+faq_146,Sample FAQ question 146: How do I handle situation 146?,Account Management
+faq_147,Sample FAQ question 147: How do I handle situation 147?,Shipping
+faq_148,Sample FAQ question 148: How do I handle situation 148?,General Inquiry
+faq_149,Sample FAQ question 149: How do I handle situation 149?,Account Management
+faq_150,Sample FAQ question 150: How do I handle situation 150?,Account Management
