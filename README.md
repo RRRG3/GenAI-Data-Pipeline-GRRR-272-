@@ -1,8 +1,3 @@
-ASTRADB FLOW LINK : https://astra.datastax.com/langflow/8e27365d-6e0a-4f38-8ee1-98e3ed20b035/flow/8cc81733-eba7-417f-8bf6-32297e15d70e
-ASTRADB :  https://astra.datastax.com/org/8e27365d-6e0a-4f38-8ee1-98e3ed20b035/database/3daece68-bb33-4ca9-8426-5d32efc4fad9
-
-
-
 
 # 🚀 GenAI-Powered Data Pipeline with Langflow & AstraDB
 
